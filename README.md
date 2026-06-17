@@ -1,0 +1,1 @@
+This project aims to divide the A-share market into 3 different state, uptrend, downtrend, and ranging (no trend), along with low risk and high risk, to create a comprehensive market compass in indentify the categories of the market
