@@ -1,0 +1,5 @@
+outputs/
+__pycache__/
+*.pyc
+.venv/
+万得全A数据.xlsx
